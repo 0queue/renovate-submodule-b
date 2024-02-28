@@ -1,1 +1,3 @@
 Submodule B
+
+Second commit!
